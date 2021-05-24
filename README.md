@@ -1,5 +1,11 @@
 # Snowpack & Tailwind JIT
 
+Install:
+
+```
+npm install
+```
+
 Start development server:
 
 ```
